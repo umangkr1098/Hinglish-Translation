@@ -20,7 +20,7 @@ Run the code to generate mixed-language output for the provided sentences.
 
 # Output:
 The code will display the input English sentences and their corresponding mixed-language (Hinglish) output.
-<img width="519" alt="image" src="https://github.com/umangkr1098/Hinglish-Translation/assets/95139666/a5ff1c84-2a08-4a47-b30f-4159bf430214">
+<img width="485" alt="image" src="https://github.com/umangkr1098/Hinglish-Translation/assets/95139666/0825b46a-9935-4733-8e6d-c991e2773bd6">
 
 # Important Notes:
 
